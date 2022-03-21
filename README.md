@@ -1,2 +1,2 @@
 # fack-mall
-仿mall-admin-web前端项目
+一个从0到1，仿mall-admin-web前端项目 主要用来学习及巩固知识，提高团队协作能力(后台由杨同学负责)
